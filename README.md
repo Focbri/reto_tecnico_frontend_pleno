@@ -104,9 +104,3 @@ Favoritos no depende de volver a golpear la API para mostrar la tarjeta completa
 - **Tests automatizados**: no se pidieron explícitamente, pero si se agregaran,
   usaría Vitest + React Testing Library, empezando por `useFavorites` (lógica más
   crítica y aislada) y por el mapeo de datos de la API (`mapDetailToCard`).
-
-## Git
-
-El historial de commits sigue mensajes descriptivos por feature (setup del
-proyecto, API + hook de favoritos, listado con paginación y búsqueda, detalle,
-favoritos, filtro por tipo, estilos y README).
